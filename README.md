@@ -2,4 +2,4 @@
 
 <hr>
 
-<img src="glassmorphism-credit-card/assets/web.png" width="350" align="center">
+<img src="glassmorphism-credit-card/assets/web.png" width="100%" align="center">
